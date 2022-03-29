@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ahmad Shalein!
+### Hi there 👋, I'm Ahmad Omar Shalein!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full+stack+and+sofware+development+engineer.++++++++++)](https://git.io/typing-svg)
 <!-- --- -->
 [![Ahmad Shalein's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadShalein&show_icons=true&hide_border=true&theme=great-gatsby) </br>
@@ -8,14 +8,14 @@
 <!-- --- -->
 My name is **Ahmad Omar Shalein**, 25 years, I'm full stack and software development engineer with background in electrical engineering.
 
-- 🔭 I’m currently working on ASAC.
+- 🔭 I’m currently working as IT Consultant at Devoteam.
 
 - 🌱 I’m currently learning web development and data science.
 <!-- - 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ... -->
 
-- 💬 Ask me about HTML, CSS, JavaScript, Python, Data Structures and Algorithms.
+- 💬 Ask me about ServiceNow platform, HTML, CSS, JavaScript, Python, Data Structures and Algorithms.
 
 - ⚡ Fun fact: I've Bachelor's Degree in Electrical Engineering.
 
